@@ -1,0 +1,214 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "slug": "Europa",
+      "name": "Europa",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso e o mar Negro a sudeste.",
+      "img": "https://images.unsplash.com/photo-1490642914619-7955a3fd483c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1193&q=80",
+      "countries": [
+        {
+          "name": "Portugal",
+          "capital": "Lisboa",
+          "img": "https://images.unsplash.com/photo-1588535684923-900727736ac0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/1795/1795606.png"
+        },
+        {
+          "name": "Espanha",
+          "capital": "Madri",
+          "img": "https://images.unsplash.com/photo-1578305698944-874fa44d04c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197593.png"
+        },
+        {
+          "name": "França",
+          "capital": "Paris",
+          "img": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1473&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197560.png"
+        },
+        {
+          "name": "Itália",
+          "capital": "Roma",
+          "img": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1396&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/323/323325.png"
+        },
+        {
+          "name": "Alemanha",
+          "capital": "Berlim",
+          "img": "https://images.unsplash.com/photo-1566404791232-af9fe0ae8f8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=736&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197571.png"
+        }
+      ],
+      "num_countries": 50,
+      "num_cities": 500,
+      "num_languages": 60
+    },
+    {
+      "id": 2,
+      "slug": "AmericaDoSul",
+      "name": "América do Sul",
+      "description": "A América do Sul é um continente situado no hemisfério ocidental, principalmente no hemisfério sul, e é composta por uma porção continental e um conjunto de ilhas no oceano Atlântico.",
+      "img": "https://images.unsplash.com/photo-1558517286-8a9cb0b8c793?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1465&q=80",
+      "countries": [
+        {
+          "name": "Brasil",
+          "capital": "Brasília",
+          "img": "https://images.unsplash.com/photo-1625426078245-6911839409dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197386.png"
+        },
+        {
+          "name": "Argentina",
+          "capital": "Buenos Aires",
+          "img": "https://images.unsplash.com/photo-1589909202802-8f4aadce1849?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/5315/5315710.png"
+        },
+        {
+          "name": "Colômbia",
+          "capital": "Bogotá",
+          "img": "https://images.unsplash.com/photo-1576018753502-1a55b66cc44a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1473&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197575.png"
+        },
+        {
+          "name": "Peru",
+          "capital": "Lima",
+          "img": "https://images.unsplash.com/photo-1533655481656-8f79f05f04e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197563.png"
+        },
+        {
+          "name": "Chile",
+          "capital": "Santiago",
+          "img": "https://images.unsplash.com/photo-1478827387698-1527781a4887?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197586.png"
+        }
+      ],
+      "num_countries": 12,
+      "num_cities": 120,
+      "num_languages": 15
+    },
+    {
+      "id": 3,
+      "slug": "AmericaDoNorte",
+      "name": "América do Norte",
+      "description": "A América do Norte é um continente localizado no hemisfério norte e quase totalmente no hemisfério ocidental. É composta por três países principais: Estados Unidos, Canadá e México.",
+      "img": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "countries": [
+        {
+          "name": "Estados Unidos",
+          "capital": "Washington, D.C.",
+          "img": "https://images.unsplash.com/photo-1581097543550-b3cbe2e6ea6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/323/323310.png"
+        },
+        {
+          "name": "Canadá",
+          "capital": "Ottawa",
+          "img": "https://images.unsplash.com/photo-1613059488547-0fc691db5231?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197430.png"
+        },
+        {
+          "name": "México",
+          "capital": "Cidade do México",
+          "img": "https://images.unsplash.com/photo-1585464231875-d9ef1f5ad396?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197397.png"
+        },
+        {
+          "name": "Cuba",
+          "capital": "Havana",
+          "img": "https://images.unsplash.com/photo-1570299437488-d430e1e677c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1025&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197508.png"
+        },
+        {
+          "name": "Jamaica",
+          "capital": "Kingston",
+          "img": "https://images.unsplash.com/photo-1580311822449-fed28b3c48f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197611.png"
+        }
+      ],
+      "num_countries": 23,
+      "num_cities": 230,
+      "num_languages": 10
+    },
+    {
+      "id": 4,
+      "slug": "Australia",
+      "name": "Austrália",
+      "description": "A Austrália é um país e continente situado no hemisfério sul, composto pela ilha da Tasmânia e por várias ilhas adjacentes nos oceanos Índico e Pacífico. É o sexto maior país do mundo em área total.",
+      "img": "https://images.unsplash.com/photo-1546268060-2592ff93ee24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "countries": [
+        {
+          "name": "África do Sul",
+          "capital": "Canberra",
+          "img": "https://images.unsplash.com/photo-1510546020578-a35ae9fcfb0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1504&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197562.png"
+        },
+        {
+          "name": "Nova Zelândia",
+          "capital": "Wellington",
+          "img": "https://images.unsplash.com/photo-1589871973318-9ca1258faa5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/8603/8603363.png"
+        },
+        {
+          "name": "Fiji",
+          "capital": "Suva",
+          "img": "https://images.unsplash.com/photo-1576402428860-746188f839d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197492.png"
+        },
+        {
+          "name": "Samoa",
+          "capital": "Apia",
+          "img": "https://images.unsplash.com/photo-1567696176949-396c415ec914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197388.png"
+        },
+        {
+          "name": "Papua-Nova Guiné",
+          "capital": "Port Moresby",
+          "img": "https://images.unsplash.com/photo-1629338446342-0ac3ff18a7d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/4855/4855753.png"
+        }
+      ],
+      "num_countries": 14,
+      "num_cities": 140,
+      "num_languages": 5
+    },
+    {
+      "id": 5,
+      "slug": "Africa",
+      "name": "África",
+      "description": "A África é o terceiro continente mais extenso do mundo, após a Ásia e a América. É composta por 54 países independentes e possui uma grande diversidade cultural, étnica e linguística.",
+      "img": "https://images.unsplash.com/photo-1489392191049-fc10c97e64b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1467&q=80",
+      "countries": [
+        {
+          "name": "África do Sul",
+          "capital": "Cidade do Cabo",
+          "img": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197562.png"
+        },
+        {
+          "name": "Egito",
+          "capital": "Cairo",
+          "img": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/323/323324.png"
+        },
+        {
+          "name": "Nigéria",
+          "capital": "Abuja",
+          "img": "https://images.unsplash.com/photo-1537372023620-37161b1ad8ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/323/323341.png"
+        },
+        {
+          "name": "Quênia",
+          "capital": "Nairobi",
+          "img": "https://images.unsplash.com/photo-1596005554384-d293674c91d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1498&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197608.png"
+        },
+        {
+          "name": "Marrocos",
+          "capital": "Rabat",
+          "img": "https://images.unsplash.com/photo-1593097765614-404d54cc96ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+          "flag": "https://cdn-icons-png.flaticon.com/128/197/197551.png"
+        }
+      ],
+      "num_countries": 54,
+      "num_cities": 540,
+      "num_languages": 30
+    }
+  ]
+}
